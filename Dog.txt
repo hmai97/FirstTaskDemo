@@ -1,0 +1,6 @@
+public class Dog {
+    private int age;
+    
+    public Dog(){
+    }
+}
