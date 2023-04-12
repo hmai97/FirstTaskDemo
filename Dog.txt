@@ -3,4 +3,9 @@ public class Dog {
     
     public Dog(){
     }
+    
+    public String toString (){
+        return "bark bark";
+    }
+    
 }
